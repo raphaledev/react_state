@@ -1,0 +1,13 @@
+.person{
+    width: 420px;
+    margin: 30px 35%;
+    border: 1px solid aqua;
+    border-radius: 5px;
+}
+
+hr {
+    margin: 10px;
+}
+.img--none {
+    display: none
+}
